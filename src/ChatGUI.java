@@ -114,3 +114,4 @@ public class ChatGUI extends JFrame {
         });
     }
 }
+//你好
